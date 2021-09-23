@@ -15,4 +15,4 @@ Nikollos Broow: dezvoltator, tester, team lead/manager, technical writer, analis
 
 ## Imaginea arhitecturală
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwiki.girlsgoit.org%2Fbackend%2Frest-apis&psig=AOvVaw2uTjbiukxi09T0G_EDHp4_&ust=1632465255631000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCWxpC9lPMCFQAAAAAdAAAAABAD);
+![image](https://gblobscdn.gitbook.com/assets%2F-LC_5HzGN5YrUWcolXKK%2F-LHU64cOfPdyl_ExTsXE%2F-LHUDSEfkwkgj50Q39yA%2Finfographic-3.png?alt=media&token=4e685e8e-c2a2-473f-b2b6-a942b7b0d186)
