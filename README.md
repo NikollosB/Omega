@@ -19,6 +19,10 @@ Nikollos Broow: dezvoltator, tester, team lead/manager, technical writer, analis
 
 ## Resurse folosite
 
+Created with Visual Studio Code.
+
+## Limbaje folosite
+
 •CSS
 
 •JavaScript
